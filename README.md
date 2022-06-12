@@ -7,14 +7,15 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
 <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=flat&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>  
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>    
-  
+
+[![1st-award's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=1st-award&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/1st-award)  
+
 <h2> > Tech Stack < </h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=1st-award&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![1st-award's github stats](https://github-readme-stats.vercel.app/api?username=1st-award&show_icons=true)
-[![1st-award's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=1st-award&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/1st-award)
+
 
   
 <hr>
@@ -34,8 +35,9 @@
     <img 
         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
+</a><a href="">
+  <img src="https://dcbadge.vercel.app/api/shield/276532581829181441" />
+</a>  
 </div>
 
 <!--
